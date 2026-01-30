@@ -133,4 +133,4 @@ Target the right customer demographics
 
 Optimize sales channels
 
-Enhance operational efficiency
+Enhance operational efficiency.
